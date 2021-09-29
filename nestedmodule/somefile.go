@@ -1,0 +1,6 @@
+package nestedmodule
+
+
+func SomeNestedModFunc() {
+
+}
