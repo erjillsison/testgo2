@@ -1,0 +1,3 @@
+package packageindir
+
+func Func() {}
